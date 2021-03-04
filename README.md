@@ -33,13 +33,12 @@ Fork this repo, than upload credentials.json and token.pickle to your forks
 ## Features supported:
 - Mirroring direct download links to Google Drive
 - Mirroring Mega.nz links to google drive (In development stage)
-- Download progress
-- Upload progress
+- Copy files/folder from someone's drive to your drive
+- Download/upload progress
 - Download/upload speeds and ETAs
 - Docker support
 - Uploading To Team Drives.
 - Index Link support
-- Copy files/folder from someone's drive to your drive
 - Service account support
 - Mirror all youtube-dl supported links
 - Mirror telegram files
