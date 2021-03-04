@@ -51,7 +51,7 @@
         "required": false
       },
       "AUTHORIZED_CHATS": {
-        "description": "Put User ID and Chat ID of you want to authorize.",
+        "description": "Fill User ID and Chat ID of you want to authorize.",
         "required": false
       },
       "INDEX_URL": {
