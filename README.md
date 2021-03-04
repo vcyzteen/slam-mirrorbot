@@ -41,12 +41,12 @@ Fork this repo, than upload credentials.json and token.pickle to your forks
 - Index Link support
 - Service account support
 - Mirror all youtube-dl supported links
+- Custom filename support in direct link, telegram files, YT-DL links
 - Mirror telegram files
 - Delete files from drive
 - Add stickers to your pack
 - Nyaa.si and Sukebei Torrent search
 - Shell and Executor
-- Custom Filename support
 - Shortener support
 - Speedtest with picture results
 - Extract password protected files
