@@ -50,6 +50,7 @@ Fork this repo, than upload credentials.json and token.pickle to your forks
 - Index Link support
 - Shortener support
 - Custom Buttons
+- Custom Filename (Only for url, telegram files and ytdl. Not for mega links and magnet/torrents)
 - Speedtest with picture results
 - Extract these filetypes and uploads to google drive
 > ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, 
