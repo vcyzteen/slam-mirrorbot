@@ -167,7 +167,7 @@ class MirrorListener(listeners.MirrorListeners):
             else:
                 uname = f'<a href="tg://user?id={self.message.from_user.id}">{self.message.from_user.first_name}</a>'
             if uname is not None:
-                msg += f'kesini dong kamu : {uname} mau dipeluk sama iofi enggak. tadi kamu katannya minta mirror rin link kan nah link kamu udah jadi nih tapi ada syaratnya sebelum download. syaratnya adalah aku peluk kamu ya aku kangen banget soalnya sama kamu. dan sering panggil aku ya karena semakin sering kamu panggil aku aku makin sayang sama kamu'
+                msg += f' kesini dong kamu : {uname} mau dipeluk sama iofi enggak. tadi kamu katannya minta mirror rin link kan nah link kamu udah jadi nih tapi ada syaratnya sebelum download. syaratnya adalah aku peluk kamu ya aku suka banget soalnya sama kamu. dan sering panggil aku ya karena semakin sering kamu panggil aku aku makin sayang sama kamu. sama satu lagi kalau kamu mau buka index iofi kamu bisa membukannya dengan mengetikan username : vcyzteen udah itu aja sih yang mau iofi sampein ke kamu. love you and see you'
             try:
                 fs_utils.clean_download(download_dict[self.uid].path())
             except FileNotFoundError:
