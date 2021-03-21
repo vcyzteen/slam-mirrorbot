@@ -44,7 +44,7 @@ def stats(update, context):
 @run_async
 def start(update, context):
     start_string = f'''
-Hi, I'm Slam, a multipurpose bot for [hafitz](t.me/hafitzXD)
+Hi, I'm [Slam](https://github.com/breakdowns/slam-mirrorbot), a multipurpose bot for [hafitz](t.me/hafitzXD)
 Type /{BotCommands.HelpCommand} to get a list of available commands
 '''
     update.effective_message.reply_photo("", start_string, parse_mode=ParseMode.MARKDOWN)
